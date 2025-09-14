@@ -23,7 +23,7 @@ This project demonstrates a DevOps pipeline using:
 ##  Features
 - Flask application containerized with Docker
 - Kubernetes Deployment + Service
-- NodePort service exposed at `localhost:30007`
+- NodePort service exposed at `localhost:5000`
 
 ---
 
